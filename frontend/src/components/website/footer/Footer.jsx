@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="box1">
           <div className="logo text__primary">
             <GiBookAura className="icon" />
-            <h4>GGC Library</h4>
+            <h4>Chitkara Library</h4>
           </div>
           <p style={{ marginTop: "8px", lineHeight: "1.5rem" }}>
             Gateway to knowledge, discovery, and lifelong learning for all Chitkara
