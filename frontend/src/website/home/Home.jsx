@@ -40,7 +40,7 @@ const Home = () => {
     <div className="bg text__color">
       {/* Hero Section */}
       <section className="hero ">
-        <h1>Welcomet to Chitkara University , Rajpura Library</h1>
+        <h1>Welcomet to BooK Shelf</h1>
         <span className="subheading">
           Explore our vast collection of books and resources.
         </span>
@@ -58,8 +58,7 @@ const Home = () => {
             <h1>Welcome Message </h1>
           </div>
           <p>
-            Welcome to the Chitkara University , Rajpura Library Management
-            System !
+            Welcome to Book Shelf
           </p>
           <p>
             Our modern, fully automated college library is undoubtedly a

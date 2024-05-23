@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="box1">
           <div className="logo text__primary">
             <GiBookAura className="icon" />
-            <h4>Chitkara Library</h4>
+            <h4>BOOK SHELF</h4>
           </div>
           <p style={{ marginTop: "8px", lineHeight: "1.5rem" }}>
             Gateway to knowledge, discovery, and lifelong learning for all Chitkara
@@ -54,7 +54,7 @@ const Footer = () => {
           <h4>CONTACT</h4>
           <div className="item">
             <AiOutlineHome className="icon__home" />
-            <span>Chitkara University , Rajpura</span>
+            <span>BOOK SHELF</span>
           </div>
           <div className="item">
             <AiOutlineMail className="icon" />
@@ -68,7 +68,7 @@ const Footer = () => {
       </div>
       <div className="bottom">
         <span>
-          &copy;2024 Copyright : Chitkara Library Management System, Rajpura
+          &copy;2024 Copyright : BOOK SHELF
         </span>
       </div>
     </footer>
